@@ -1,5 +1,12 @@
+<style>
+  .title {
+    font-size:50px;
+  }
+</style>
+
+
 <h1 class="title">
-  ChI
+  Ch<span class="emoji"></span>
 </h1>
 
 
