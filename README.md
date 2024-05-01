@@ -1,11 +1,4 @@
-<style>
-  .title {
-    font-size:50px;
-  }
-</style>
-
-
-<h1 class="title">
+<h1 style="font-size:4rem; letter-spacing:6px; corsor:pointer;">
   Ch<span class="emoji"></span>
 </h1>
 
