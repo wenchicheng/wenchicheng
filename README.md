@@ -1,5 +1,5 @@
 <h1 style="font-size:10rem; letter-spacing:6px; corsor:pointer; color:yellow;">
-  Ch<span class="emoji"></span>
+  Ch<span style="position: relative; display:inline-block; width:12px;"></span>
 </h1>
 
 
