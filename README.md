@@ -1,4 +1,4 @@
-<h1 style="font-size:4rem; letter-spacing:6px; corsor:pointer; color:yellow;">
+<h1 style="font-size:10rem; letter-spacing:6px; corsor:pointer; color:yellow;">
   Ch<span class="emoji"></span>
 </h1>
 
