@@ -10,7 +10,7 @@
 - 🌱 Currently learning to improve dynamic website effects
 - 🎨 interested in honing web front-end skills and design aesthetics
 - 🏐 Volleyball lover  ハイキュー!!
-- 🎮 Anime, board & video game enthusiast
+- 🎮 Anime & video game enthusiast
 
 <!---
 wenchicheng/wenchicheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
