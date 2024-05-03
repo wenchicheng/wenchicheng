@@ -8,6 +8,8 @@
 
 <br>
 
+- ✨ I'm a visual designer exploring web design 
+  
 - 🌱 Currently learning to improve dynamic website effects
   
 - 🎨 interested in honing web front-end skills and design aesthetics
